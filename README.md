@@ -1,1 +1,1 @@
-# Acme Platform API Client Management
+# Acme Platform API
